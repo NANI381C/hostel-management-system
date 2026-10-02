@@ -45,6 +45,7 @@ This system brings **students, rooms, complaints, fees and notices** into a sing
 | **Staff** | Manages room allocations, resolves complaints, posts notices |
 | **Student** | Views room details, raises complaints, checks fee status, reads notices |
 
+--- 
 
 ## 🏗️ Architecture
 
