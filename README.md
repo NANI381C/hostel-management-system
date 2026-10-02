@@ -45,21 +45,6 @@ This system brings **students, rooms, complaints, fees and notices** into a sing
 | **Staff** | Manages room allocations, resolves complaints, posts notices |
 | **Student** | Views room details, raises complaints, checks fee status, reads notices |
 
----
-
-## 📸 Screenshots
-
-> Add your screenshots to `docs/screenshots/` and they will appear here.
-
-| Dashboard | Room Allocation |
-|---|---|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Rooms](docs/screenshots/rooms.png) |
-
-| Complaints | Fee Tracking |
-|---|---|
-| ![Complaints](docs/screenshots/complaints.png) | ![Fees](docs/screenshots/fees.png) |
-
----
 
 ## 🏗️ Architecture
 
