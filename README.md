@@ -10,7 +10,7 @@
 ![HTML5](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-E34F26?logo=html5&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-[Features](#-key-features) · [Screenshots](#-screenshots) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Roadmap](#-roadmap) · [Author](#-author)
+[Features](#-key-features) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Roadmap](#-roadmap) · [Author](#-author)
 
 </div>
 
